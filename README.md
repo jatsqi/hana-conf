@@ -1,3 +1,5 @@
-# re-CAP
+# HANA Conference Site (2025)
 
-[re>≡CAP Conference Website](https://recap-conf.dev)
+The code is maintained in two different branches:
+- `call-for-speakers`
+- `site-2025`
